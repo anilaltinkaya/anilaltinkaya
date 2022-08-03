@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am Anıl from Turkey.
+I'm Anıl from Turkey.
 
 - 🔭 I’m currently working on ...
 <!--
