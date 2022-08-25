@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Anıl from Turkey.
 
-- 🔭 I’m currently working on ...
+- 🤔 Nowadays my profile is empty but soon i will not put content ..
 <!--
 **anilaltinkaya/anilaltinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
